@@ -25,4 +25,4 @@ MyBazaar 的 Flutter app 版本，服務現場角色（merchant / cashier / team
 
 ## 目前狀態
 
-詳見最新一篇 `markdown/2026/07月/20260707/progress.md`。簡述：Flutter/Android 開發環境已建置完成、專案骨架已建立（package name `com.mybazaar`），`flutterfire configure` 綁定 `mybazaar-c4881` 卡在網路問題（`firebase.googleapis.com` 連線逾時），待排除後繼續。
+詳見最新一篇 `markdown/2026/08月/20260803/progress.md`。簡述：Flutter/Android 開發環境已建置完成、專案骨架已建立（package name `com.mybazaar`），已建立 GitHub workspace 倉庫 `chenyanxun5819/mybazaarWorkspace`（`mybazaar_app` 一般檔案 + `mybazaar20` submodule）。`flutterfire configure` 綁定 `mybazaar-c4881` 仍卡在網路問題（`firebase.googleapis.com` 連線逾時），待排除後繼續。
